@@ -1,6 +1,6 @@
 # manyminds
 
-Para executar os projetos Automacao Globo e Automacao Bitcoin favor seguir as recomentações abaixo:
+Para executar os projetos Automacao Globo e Automacao Bitcoin favor seguir as recomendações abaixo:
  
    Automacao Globo
   1-Baixar os arquivos.
